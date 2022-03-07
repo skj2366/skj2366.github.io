@@ -46,11 +46,11 @@ categories: jekyll update
 
 결국 삽질을 하다가 절대 실패할 수 없는 깃헙 리포지토리에 올라가는 이미지의 이미지 주소를 임시로 사용하기로 마음먹었다.
 
-![깃허브 이미지 url](https://github.com/skj2366/skj2366.github.io/blob/main/_posts/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20url%20%EC%82%AC%EC%9A%A9.png)
+![깃허브 이미지 url](https://github.com/skj2366/skj2366.github.io/blob/main/_posts/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20url%20%EC%82%AC%EC%9A%A9.png?raw=true)
 
 
 대망의 업로드 & 테스트
-![업로드완료](https://github.com/skj2366/skj2366.github.io/blob/main/_posts/%EC%9D%B4%EA%B1%B4%20%EC%95%88%EB%93%A4%EC%96%B4%EA%B0%88%EC%88%98%EA%B0%80%20%EC%97%86%EC%A7%80.png)
+![업로드완료](https://github.com/skj2366/skj2366.github.io/blob/main/_posts/%EC%9D%B4%EA%B1%B4%20%EC%95%88%EB%93%A4%EC%96%B4%EA%B0%88%EC%88%98%EA%B0%80%20%EC%97%86%EC%A7%80.png?raw=true)
 > 솔직히 이건 안들어갈 수가 없지 ..
 
 드디어 성공했다 ! 
@@ -73,3 +73,6 @@ categories: jekyll update
 
 현재 이 정도로 보이는데 종합해서 해결을 해볼 생각이다.
 > ? 블로그 테마부터... 아니 세팅하고 아무것도 안바꿨잖아 ...
+
+결론 : 블로그는 어렵고 마크다운으로 하는건 더 어렵고, 괜히 시간없는데 만든다고 삽질했다.  
+하지만 칼을 뽑았으면 무라도 썰어야지.
