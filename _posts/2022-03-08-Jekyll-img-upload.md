@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll 이미지 업로드 이슈 with 삽질"
-date:   2022-03-08 23:09:00 +0900
+date:   2022-03-07 23:09:00 +0900
 categories: jekyll update
 ---
 
