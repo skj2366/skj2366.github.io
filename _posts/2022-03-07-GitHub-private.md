@@ -16,7 +16,7 @@ categories: jekyll update
 
 아무튼 과제를 진행하기 위하여 private repo를 만들어 어느 정도 진행을 한 후 오늘 커밋을 해보니 6일 및 7일 날짜로 잔디가 잘 들어갔다.
 
-![img.png](/_posts/img.png)
+![img.png](https://github.com/skj2366/skj2366.github.io/blob/main/_posts/img.png?raw=true)
 
 하지만 로그인을 하지 않고 깃허브 페이지를 확인하는 순간!?
 
@@ -25,10 +25,10 @@ categories: jekyll update
 
 이래저래 이유를 찾아보니 잔디를 보여주는 옵션이 따로 있었다.
 잔디방 오른쪽 위의 Contribution settings 확인하여
-![img_1.png](/_posts/img_1.png)
+![img_1.png](https://github.com/skj2366/skj2366.github.io/blob/main/_posts/img_1.png?raw=true)
 Private Contributions 옵션을 켜주면 된다고 한다.
 
-![img_2.png](/_posts/img_2.png)
+![img_2.png](https://github.com/skj2366/skj2366.github.io/blob/main/_posts/img_2.png?raw=true)
 확인해 보니 contributions in private repositories 문구로 가려진채 커밋 이력이 남는것이 보인다!
 
 보여주기 남 부끄럽더라도 PUBLIC으로 하는 것이 맞지만, 회사 업무 등 가릴 수 있는것은 가려야 하기에...
